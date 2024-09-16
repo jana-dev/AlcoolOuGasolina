@@ -10,3 +10,7 @@ Este projeto aplica os seguintes conceitos de Kotlin:
 * Propriedades - textInputAlcool, editAlcool, etc., são propriedades da classe MainActivity que armazenam referências para os elementos da interface.
 * Funções - onCreate, calcularMelhorPreco, validarCamposDigitados, e inicializarComponentesInterface são funções que definem o comportamento da sua Activity.
 * Late-Initialized Properties - lateinit permite inicializar propriedades não nulas posteriormente, geralmente no método onCreate de uma Activity.
+
+
+![Tela do app](app/src/main/res/drawable/telaAlcoolGasolina.png)
+![Tela do app](app/src/main/res/drawable/telaAlcoolGasolina2.png)
